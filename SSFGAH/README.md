@@ -1,6 +1,6 @@
 NOTE: This project "Smart System for Garden & House/SSFGAH" is taken from my graduation project.
 
-Cite: Ngô Quang Tịnh, Đồ án tốt nghiệp "THIẾT KẾ HỆ THỐNG GIÁM SÁT VÀ ĐIỀU KHIỂN THÔNG MINH CHO KHUÔN VIÊN VÀ NHÀ", TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI PHÂN HIỆU TẠI THÀNH PHỐ HỒ CHÍ MINH, Năm 2025.
+My graduation project: Ngô Quang Tịnh, Đồ án tốt nghiệp "THIẾT KẾ HỆ THỐNG GIÁM SÁT VÀ ĐIỀU KHIỂN THÔNG MINH CHO KHUÔN VIÊN VÀ NHÀ", TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI PHÂN HIỆU TẠI THÀNH PHỐ HỒ CHÍ MINH, Năm 2025.
 
 REFERENCES:
 [1] https://www.iotzone.vn/esp32/esp32-mesh-network/
