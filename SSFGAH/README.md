@@ -1,4 +1,4 @@
-NOTE: This project "SSFGAH" is taken from my graduation project.
+NOTE: This project "Smart System for Garden & House/SSFGAH" is taken from my graduation project.
 
 Cite: Ngô Quang Tịnh, Đồ án tốt nghiệp "THIẾT KẾ HỆ THỐNG GIÁM SÁT VÀ ĐIỀU KHIỂN THÔNG MINH CHO KHUÔN VIÊN VÀ NHÀ", TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI PHÂN HIỆU TẠI THÀNH PHỐ HỒ CHÍ MINH, Năm 2025.
 
