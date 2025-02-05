@@ -1,3 +1,5 @@
+NOTE: This project "SSFGAH" is taken from my graduation project.
+
 REFERENCES:
 [1] https://www.iotzone.vn/esp32/esp32-mesh-network/
 [2] https://arduinojson.org/?utm_source=meta&utm_medium=library.properties
